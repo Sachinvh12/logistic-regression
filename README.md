@@ -1,3 +1,3 @@
-# logistic-regression
+# logistic regression
 
-implementation of logistic regression in python
+Implementation of logistic regression in python.
